@@ -1,10 +1,13 @@
 # Finget Laravel
 
-پکیج رسمی [فینگت](https://finget.ir) برای Laravel: ورود بدون رمز و ارسال اعلان.
+پکیج رسمی **[فینگت](https://finget.ir)** برای Laravel: ورود بدون رمز و ارسال اعلان.
 
-- نیازمندی: **PHP 8.1+** و **Laravel 10 / 11 / 12**
-- روی [`finget/sdk`](https://packagist.org/packages/finget/sdk) سوار است
+- وب‌سایت: [finget.ir](https://finget.ir)
+- افزونه‌ها و SDKها: [finget.ir/plugins](https://finget.ir/plugins)
 - مستندات API: [finget.ir/provider/panel/docs](https://finget.ir/provider/panel/docs)
+- Packagist: [packagist.org/packages/finget/laravel](https://packagist.org/packages/finget/laravel)
+- روی [`finget/sdk`](https://packagist.org/packages/finget/sdk) سوار است
+- نیازمندی: **PHP 8.1+** و **Laravel 10 / 11 / 12**
 
 ## نصب
 
